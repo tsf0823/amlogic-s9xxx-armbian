@@ -22,7 +22,7 @@ on:
         required: false
         default: "all"
         type: choice
-        options:
+        options: "s905l2"
           - all
           - s922x_s905x3_s905d_s912_s905l3a
           - rock5b_r66s_r68s_beikeyun_l1pro
